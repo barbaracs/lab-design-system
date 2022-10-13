@@ -6,12 +6,12 @@ module.exports = {
   theme: {
     extend: {
       fontSize: {
-        xs: '14',
-        sm: '16',
-        md: '18',
-        lg: '20',
-        xl: '24',
-        '2xl': '32',
+        xs: '14px',
+        sm: '16px',
+        md: '18px',
+        lg: '20px',
+        xl: '24px',
+        '2xl': '32px',
       },
       colors: {
         'gray-900': '#121214',
