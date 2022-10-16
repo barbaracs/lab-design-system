@@ -6,13 +6,7 @@ export default {
     title: 'Components/Checkbox',
     component: Checkbox,
     args: {},
-    argTypes: {
-        asChild: {
-            table: {
-                disable: true,
-            }
-        },
-    },
+    argTypes: {},
 } as Meta<CheckboxProps>
 
 export const Default: StoryObj<CheckboxProps> = {}
